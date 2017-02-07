@@ -153,20 +153,20 @@ public class InsertionSort {
 		}
 	}
 	
-/*	public static void main(String[] args) {
-		int [] singleA 			 = {1};				   //
-		int [] A 				 = {5, 2, 4, 6, 1, 3};
+	public static void main(String[] args) {
+		int [] singleA 		 = {1};	
+		int [] A 	         = {5, 2, 4, 6, 1, 3};
 		int [] averageWorstCaseA = {1, 2, 4, 6, 5, 4}; // random half sorted half not big-theta(n^2);
 		int [] averageBestCaseA  = {1, 2, 3, 6, 4, 5}; // almost sorted big-theta(n)
-		int [] bestCaseA 		 = {1, 2, 3, 4, 5, 6}; // big-theta(n)
-		int [] worstCaseA		 = {6, 5, 4, 3, 2, 1}; // big-theta(n^2)
+		int [] bestCaseA 	 = {1, 2, 3, 4, 5, 6}; // big-theta(n)
+		int [] worstCaseA	 = {6, 5, 4, 3, 2, 1}; // big-theta(n^2)
 		
-		//print(A);
+		print(A);
 		insertionSort(singleA);
-		//print(A);
+		print(A);
 
 
 	}
-*/
+
 
 }
